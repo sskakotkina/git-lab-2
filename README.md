@@ -8,4 +8,3 @@
 Цель работы: изучить управление версиями проекта,
 работу с ветками, коммитами, подмодулями и Git LFS.
 Draft documentation
-Incorrect project description
